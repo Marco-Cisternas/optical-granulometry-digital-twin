@@ -1,2 +1,2 @@
-# optical-granulometry-digital-twin
-Traceable optical granulometry pipeline for dense granular media: multiclass U-Net + watershed + digital twin validation + stochastic ensemble.
+Computer vision pipeline for particle size distribution estimation in dense 
+granular media, validated against a PyBullet + Blender Cycles digital twin.
